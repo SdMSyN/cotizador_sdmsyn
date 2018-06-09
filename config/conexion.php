@@ -4,7 +4,7 @@
 	$host="localhost";
 	$user="root";
 	$pass="";
-	$db="sthogar_cotizador";
+	$db="sdmsyn_cotizador";
 //	$db="laconcepcionproduccion";
 	$con=mysqli_connect($host, $user, $pass, $db);
 	if($con->connect_error){
