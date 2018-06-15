@@ -1,6 +1,6 @@
 <?php
 
-	$tit="Soluciones Tecnologicas para el Hogar";
+	$tit=" Software de México: Soluciones y Negocios S.A.S. de C.V. ";
         $dateNow=date("Y-m-d");
         $timeNow=date("H:i");
         $rutaImgProd="uploads/";
