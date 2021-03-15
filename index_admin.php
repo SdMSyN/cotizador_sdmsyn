@@ -15,7 +15,7 @@ else {
   <div class="container">
     <div class="row text-center">
       <div class="col-xs-12">
-            <img src="assets/img/empresa.jpg" class="img-round"> 
+            <img src="assets/img/ico_nube.png" class="img-round"> 
       </div>
       <div class="col-md-12 titulo">
         BIENVENIDO AL SISTEMA ADMINISTRATIVO DE <br>
